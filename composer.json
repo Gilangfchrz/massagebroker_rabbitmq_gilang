@@ -1,0 +1,7 @@
+{
+    "name": "asus/tugas",
+    "description": "tugas ws",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.8"
+    }
+}
